@@ -1,0 +1,20 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  whh_amf_thread_windows.cpp
+  whh_amf_venc.cpp
+d:\programworkspace\reserch\rsh_encode\test\amf_test_code\src\src_whh_venc\whh_amf_venc.cpp(818): warning C4018: '<': signed/unsigned mismatch
+d:\programworkspace\reserch\rsh_encode\test\amf_test_code\src\src_whh_venc\whh_amf_venc.cpp(827): warning C4018: '<': signed/unsigned mismatch
+d:\programworkspace\reserch\rsh_encode\test\amf_test_code\3rdpart\include\core\propertystorage.h(213): warning C4800: 'bool *const ': forcing value to bool 'true' or 'false' (performance warning)
+  d:\programworkspace\reserch\rsh_encode\test\amf_test_code\src\src_whh_venc\whh_amf_venc.cpp(416): note: see reference to function template instantiation 'AMF_RESULT amf::AMFPropertyStorage::SetProperty<bool*>(const wchar_t *,const _T &)' being compiled
+          with
+          [
+              _T=bool *
+          ]
+  whh_amf_thread.cpp
+  whh_amf_factory_helper.cpp
+  amf_test_code.cpp
+d:\programworkspace\reserch\rsh_encode\test\amf_test_code\src\amf_test_code.cpp(222): warning C4018: '<': signed/unsigned mismatch
+d:\programworkspace\reserch\rsh_encode\test\amf_test_code\src\amf_test_code.cpp(233): warning C4018: '<': signed/unsigned mismatch
+d:\programworkspace\reserch\rsh_encode\test\amf_test_code\src\amf_test_code.cpp(583): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  amf_test_code.vcxproj -> D:\programworkspace\reserch\RSH_encode\test\amf_test_code\build\VS2015\../../bin/Win32/Debug\amf_test_code.exe
+  amf_test_code.vcxproj -> ../../bin/Win32/Debug\amf_test_code.pdb (Full PDB)

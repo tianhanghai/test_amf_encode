@@ -1,0 +1,26 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  amf_test_code.cpp
+..\..\src\amf_test_code.cpp(583): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  whh_amf_factory_helper.cpp
+  whh_amf_thread.cpp
+  whh_amf_venc.cpp
+..\..\src\src_whh_venc\whh_amf_venc.cpp(39): warning C4267: '=': conversion from 'size_t' to 'uint32_t', possible loss of data
+..\..\src\src_whh_venc\whh_amf_venc.cpp(47): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+..\..\src\src_whh_venc\whh_amf_venc.cpp(177): warning C4267: 'argument': conversion from 'size_t' to 'uint32_t', possible loss of data
+..\..\src\src_whh_venc\whh_amf_venc.cpp(481): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+..\..\src\src_whh_venc\whh_amf_venc.cpp(565): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+..\..\src\src_whh_venc\whh_amf_venc.cpp(606): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+..\..\src\src_whh_venc\whh_amf_venc.cpp(819): warning C4018: '<': signed/unsigned mismatch
+..\..\src\src_whh_venc\whh_amf_venc.cpp(828): warning C4018: '<': signed/unsigned mismatch
+d:\programworkspace\reserch\rsh_encode\test\amf_test_code\3rdpart\include\core\PropertyStorage.h(213): warning C4800: 'bool *const ': forcing value to bool 'true' or 'false' (performance warning)
+  ..\..\src\src_whh_venc\whh_amf_venc.cpp(417): note: see reference to function template instantiation 'AMF_RESULT amf::AMFPropertyStorage::SetProperty<bool*>(const wchar_t *,const _T &)' being compiled
+          with
+          [
+              _T=bool *
+          ]
+  whh_amf_thread_windows.cpp
+  Generating code
+  All 437 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  amf_test_code.vcxproj -> D:\programworkspace\reserch\RSH_encode\test\amf_test_code\build\VS2015\../../bin/x64/Release\amf_test_code.exe
+  amf_test_code.vcxproj -> ../../bin/x64/Release\amf_test_code.pdb (Full PDB)
